@@ -1,3 +1,5 @@
+// CREATE A FOLDER 'STATIC' AND ADD THIS FILE THERE.
+
 var scene, camera, renderer, light;
 var earthRotY = 0, moonRotY = 0;
 var radY = 0, radZ = -0.3;
